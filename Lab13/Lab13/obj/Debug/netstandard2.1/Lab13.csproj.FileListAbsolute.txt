@@ -1,0 +1,17 @@
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\bin\Debug\netstandard2.1\Lab13.deps.json
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\bin\Debug\netstandard2.1\Lab13.dll
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\bin\Debug\netstandard2.1\ref\Lab13.dll
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\bin\Debug\netstandard2.1\Lab13.pdb
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Views\AlbumesPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Views\AlbumPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Views\MainPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.AssemblyInfoInputs.cache
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.AssemblyInfo.cs
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.dll
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\ref\Lab13.dll
+C:\Users\toshiba\source\repos\Lab13\Lab13\Lab13\Lab13\obj\Debug\netstandard2.1\Lab13.pdb
